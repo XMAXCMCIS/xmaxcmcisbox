@@ -6,5 +6,7 @@ You can view or download what the developer has created.
 App in development
 # Development language
 app by:kodular
+# Is there a virus? Is it safe?
+The app is safe. We didn't make it to hack. If you tell anyone that this guy is a hacking company, I'll beat him up. Most of it is safe. There are no viruses. We only test the apps to make sure they work. 
 # devs
 xmaxcmcis
