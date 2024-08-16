@@ -8,5 +8,7 @@ App in development
 app by:kodular
 # Is there a virus? Is it safe?
 The app is safe. We didn't make it to hack. If you tell anyone that this guy is a hacking company, I'll beat him up. Most of it is safe. There are no viruses. We only test the apps to make sure they work. 
+# XMAXCMCISWeb and App Integration
+The web is less functional, but the app is not. 
 # devs
 xmaxcmcis
